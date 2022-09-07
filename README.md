@@ -32,10 +32,10 @@ Numbers:
 3. third
 
 <!-- Link -->
-Click [Here](http://academy.dream-coding.com/)
+Click [Here](https://www.google.com/)
 
 <!-- Image -->
-![image description](https://user-images.githubusercontent.com/61736137/102153953-b2881000-3ebb-11eb-9581-7026bc8e169e.jpg)
+![수달](https://cdn.pixabay.com/photo/2022/09/02/11/27/otter-7427340__480.jpg)
 
 
 <!-- Table -->
