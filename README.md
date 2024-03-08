@@ -38,7 +38,7 @@ Numbers:
 3. 3번째는 부가 설명 [마우스 ON](https://www.google.com/, "말풍선 형태로 부가 설명이 나타납니다.")
 
 <!-- Image -->
-![수달](https://cdn.pixabay.com/photo/2022/09/02/11/27/otter-7427340__480.jpg)
+![수달 -> 대체 텍스](./쓸까.jpg)
 
 
 <!-- Table -->
